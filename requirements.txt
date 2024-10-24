@@ -1,0 +1,4 @@
+Flask
+msal
+pyodbc
+azure-identity
